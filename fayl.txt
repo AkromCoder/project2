@@ -1,3 +1,4 @@
 2-fayl uy ishi
 istalgan matn
 nimadir matn 
+Phyton
