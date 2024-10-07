@@ -3,3 +3,4 @@ istalgan matn
 nimadir matn 
 Phyton
 Pyhton ?
+hali 5 ta bo'lmabdi
